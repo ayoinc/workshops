@@ -1,5 +1,7 @@
 # Red Hat Ansible Automation Platform Workshops
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/7f028f66-e51b-4fd5-8041-bdb7da0821db.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/workshops?orgId=666444378491)  
+
 **Read this in other languages**:
 <br>![uk](/images/uk.png) [English](README.md),  ![japan](/images/japan.png)[日本語](README.ja.md)
 
